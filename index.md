@@ -67,6 +67,7 @@
       ['Dino', 'https://github.com/dino-lang/dino'],
       ['Rust', 'https://www.rust-lang.org/'],
       ['Scala', 'https://www.scala-lang.org/'],
+      ['Swift', 'https://swift.org/'],
     ];
 
     const frontends = [
